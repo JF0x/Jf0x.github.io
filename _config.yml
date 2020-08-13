@@ -27,13 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Iuliia and I'm a iOS Developer. 
 
   I’m passionate and hardworking, and eager to solve each problem that comes my way. I learn quickly and have a productive attitude.
-
-# Projects Section
-# projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
-
+  
 # Education Section
 # educaton_title: Education
 
@@ -45,6 +39,11 @@ more_content: | # this will include new lines to allow paragraphs
    - rolling
    - hiking
    
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
 
 # Footer
 footer_show_references: true
