@@ -1,4 +1,5 @@
-- #layout: top-middle
+- layout: top-middle
+about_profile_image: images/profile.jpeg
   #name: Super awesome project
   #link: github.com/sproogen
   #github: sproogen/resume-theme
